@@ -1,2 +1,0 @@
-# iamsirseol.github.io
-blog
